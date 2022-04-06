@@ -1,0 +1,31 @@
+* {
+  outline: none;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+
+body {
+  width: 100%;
+  background-color: #f0f2f5;
+}
+
+form {
+  width: 320px;
+  height: 270px;
+  background-color: #fff;
+  border-radius: 5px;
+  margin: -10vh 850px;
+  padding: 10px 5px 20px;
+  position: absolute;
+  box-shadow: 5px 5px 6px -7px;
+}
+
+input[type="text"], input[type="password"] {
+  border: 1.5px solid rgb{};
+  background-color: #fff;
+  margin: auto;
+  display: block;
+}
+
+/*# sourceMappingURL=index.4ee4707b.css.map */
